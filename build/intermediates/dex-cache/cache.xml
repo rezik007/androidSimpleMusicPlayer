@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Projekty\Github Projects\wasko1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="D:\Projekty\Github Projects\wasko1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_d6fff486f2bd165634455c480036b19d33263b7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projekty\Github Projects\wasko1\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Projekty\Github Projects\wasko1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_a5c3e5b3630e7dc495447e8d6a3c772dd12c589f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projekty\Github Projects\wasko1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="D:\Projekty\Github Projects\wasko1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_3f60b3088e618a00d1712f26992b1a63e0b733f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projekty\Github Projects\wasko1\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\Projekty\Github Projects\wasko1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_42ebe96768e16d917449544e122561325f7ea514\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projekty\Github Projects\wasko1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="D:\Projekty\Github Projects\wasko1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_6a12d478917e6f261c96fa06823ec77ca8c95ad9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projekty\Github Projects\wasko1\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\Projekty\Github Projects\wasko1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_d3d11c5906c95e49ea78999376a37f631bd5cef6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projekty\Github Projects\wasko1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fffa2d3a9371510119d978aa83844bbd81be0ca">
+        <dex dex="D:\Projekty\Github Projects\wasko1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_568da5988231351956a11d0f72bb0b5ae57ec463\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projekty\Github Projects\wasko1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="D:\Projekty\Github Projects\wasko1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_8a593801b1d0bba9b548285bf7dbacc44902822f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projekty\Github Projects\wasko1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\Projekty\Github Projects\wasko1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_a6ff82dadb1c10a0065139a85ce3d6d486666813\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Patryk\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="D:\Projekty\Github Projects\wasko1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_50f15e767c2f43e3aa65c0ffcd83c370022df5cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projekty\Github Projects\wasko1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c8ca4174b7bcf1d47132f78b1ba8211d46aa031">
+        <dex dex="D:\Projekty\Github Projects\wasko1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_dfa369ee68cb3d6ea1e027ade029e841190bb334\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projekty\Github Projects\wasko1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="D:\Projekty\Github Projects\wasko1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_3c797557d1671c326b16594299747a66faba18b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Projekty\Github Projects\wasko1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\Projekty\Github Projects\wasko1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_742123bb645d2dbe6a1c9181385a313da05d8efa\classes.dex" />
+    </item>
+
+</items>

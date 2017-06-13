@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/details"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/img_big"
+        android:layout_width="fill_parent"
+        android:layout_height="300dp"
+        android:layout_gravity="center"
+        android:layout_centerInParent="false"
+        android:layout_marginTop="100dp"
+              android:cropToPadding="false" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="30dp"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="@string/seek_bar_label"
+        android:layout_below="@id/img_big"
+        android:textStyle="bold"
+        android:textSize="15dp"
+        />
+    <SeekBar
+        android:id="@+id/songProgressBar"
+        android:layout_width="fill_parent"
+        android:layout_height="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="40dp"
+        android:layout_below="@id/img_big"
+        android:paddingLeft="6dp"
+        android:paddingRight="6dp"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_centerInParent="true"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:layout_height="100dp"
+        android:layout_above="@+id/button">
+
+    <ImageButton
+        android:id="@+id/btnPlay"
+        android:src="@drawable/playbtn"
+        android:layout_width="50dp"
+        android:layout_height="60dp"
+        android:layout_marginRight="20dp"
+        android:scaleType="fitXY"
+        android:background="@null"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"/>
+        <ImageButton
+            android:id="@+id/btnPouse"
+            android:src="@drawable/pousebtn"
+            android:layout_width="50dp"
+            android:layout_height="60dp"
+            android:scaleType="fitXY"
+            android:background="@null"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"/>
+
+
+    </LinearLayout>
+    <Button
+        android:text="Wróć"
+        android:layout_width="169dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/button"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        />
+
+</RelativeLayout>

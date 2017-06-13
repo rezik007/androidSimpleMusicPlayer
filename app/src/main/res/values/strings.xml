@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GalleryApp</string>
+    <string name="seek_bar_label">Volume:</string>
+</resources>
